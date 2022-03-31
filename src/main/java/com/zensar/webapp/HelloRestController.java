@@ -1,4 +1,4 @@
-package com.zensar;
+package com.zensar.webapp;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.GetMapping;
 @RestController
