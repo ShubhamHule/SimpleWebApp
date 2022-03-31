@@ -14,7 +14,7 @@ pipeline {
         }
         stage('Publishing') {
             steps {
-                eco 'Publishing'
+                echo 'Publishing'
             }
         }
     }
